@@ -21,10 +21,10 @@ _Put an `x` in the boxes that apply. You can also fill these out after creating 
 - [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] I have added necessary documentation (if appropriate)
 - [ ] Any dependent changes have been merged and published in downstream modules
-Project: <name>
-Description: <80 or so characters describing the contents of the project>
-Category: <"library", "automation", or "framework">
-Class: <"Community", "Tested by Spirent", "Reference">
+      Project: <name>
+      Description: <80 or so characters describing the contents of the project>
+      Category: <"library", "automation", or "framework">
+      Class: <"Community", "Tested by Spirent", "Reference">
   
 ## Further comments
 
