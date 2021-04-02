@@ -11,6 +11,8 @@ You will find a wide variety of useful automation assets for your iTest projects
   </tr>
 </table>
 
+![Topology](/a_MME/topologies/topology1.jpg)
+
 All assets in are categorized into three levels of maturity/testing:
 - Certified:  provided and tested by Spirent
 - Reference:  provided by Spirent with intent to serve as “blueprint” for your project's structure and usage
