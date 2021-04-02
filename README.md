@@ -20,6 +20,14 @@ All assets in are categorized into three levels of maturity/testing:
 
 You are encouraged to submit your projects back to the Spirent Developer Community for others to benefit from.
 
++ All properties that the driver needs (defined in the driver manifest file as currently implemented).
+Values should be property defaults as defined in the source template
+
+• Standard runtime data
+• Velocity reservationId, token, url, reportId
+Arguments:
+id – the id of the topology resource (Topology context) being terminated
+
 + Each project within this repository conforms to a standard naming convention. Project names are pre-pended with two letters. The first letter indicates what type of content exists in the project, and the second letter indicates the language in which the project was written. For example, a project called di_foobar contains a device project written in iTest. The tables below list the prefix values:
 
 |First Letter|Project Content|Description|
